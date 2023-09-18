@@ -1,0 +1,26 @@
+.shipment- .dot {
+    height: 19px;
+    width: 19px;
+    background-color:  #f1652b;
+    border-radius: 50%;
+    margin-right: 6px;
+    display: inline-block;
+  }
+
+  .rectangular
+  {
+    height: 3px;
+    width: 35%;
+    background-color: #c05f4d;
+    margin-right: 6px;
+    display: inline-block;
+  }
+
+  .rectangular1
+  {
+    height: 6px;
+    width: 35%;
+    background-color: #1c368d;
+    margin-right: 6px;
+    display: inline-block;
+  }
